@@ -1,5 +1,5 @@
-eka = 1
-while eka < 1000:
-    if eka/3 == int(eka/3):
-        print(f"{eka}")
-    eka = eka + 1
+jaettava = 1
+while jaettava < 1000:
+    if jaettava % 3 == 0:
+        print(f"{jaettava}")
+    jaettava = jaettava + 1
